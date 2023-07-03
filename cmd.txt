@@ -1,0 +1,7 @@
+mkdir "Folder_Name" CreateFolder
+rmdir "Folder_Name" DeleteFolder
+del "File_Name" DeleteFile
+touch "File_Name" CreateFile
+
+notepad.exe "txt_file"
+"program" "txt_file"
